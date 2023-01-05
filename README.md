@@ -3,8 +3,7 @@
 
 ###    
 I am frontend developer. I interested in javascript technologies. I develop myself everyday and 
-i share my projects on my github profile. I try to be a very good front-end developer by learning new 
-technologies every day.  
+i share my projects on my github profile. 
 
 <br/>
 
