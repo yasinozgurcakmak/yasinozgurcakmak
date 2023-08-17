@@ -12,5 +12,4 @@ I'am front-end developer. I interested in Javascript Technologies
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirotros&hide_border=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=sirotros&show_icons=true&count_private=true&hide_border=true)
+
