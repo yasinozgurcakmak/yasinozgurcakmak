@@ -1,4 +1,5 @@
-## Hi 👋, I'm Yasin Özgür Çakmak
+
+## Hi, I'am Yasin Özgür Çakmak
 I'am front-end developer. I interested in Javascript Technologies 
 
 ### ⚒️ Languages and Tools  
@@ -11,6 +12,14 @@ I'am front-end developer. I interested in Javascript Technologies
 ![NEXT](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 [![](https://visitcount.itsvg.in/api?id=sirotros&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<details>
+  <summary>Github Stats</summary>
+  
+   ![](https://github-readme-stats.vercel.app/api?username=sirotros&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=sirotros&theme=dark&hide_border=true)
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirotros&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</details>
