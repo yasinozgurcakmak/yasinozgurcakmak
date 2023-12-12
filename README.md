@@ -1,6 +1,6 @@
 
 ## Hi, I'am Yasin Özgür Çakmak
-I'am front-end developer. I interested in Javascript Technologies 
+As a front-end developer, I spend my free time improving myself on JavaScript. I am learning tools related to front-end development and using these tools in the projects I develop with React and Next.js. You can find some of the projects I developed on my Github. At the company I currently work for, we are developing with Html5, Scss and jQuery.
 
 ### ⚒️ Languages and Tools  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
